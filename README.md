@@ -12,7 +12,7 @@ El curso cubre desarrollo web moderno con JavaScript: React, Node.js, MongoDB, G
 |-------|------|--------|
 | [Parte 1](./part1/README.md) | Fundamentos de React | ✅ Completada |
 | [Parte 2](./part2/README.md) | Comunicación con el servidor | ✅ Completada |
-| Parte 3 | Programación del servidor con Node.js | 🔜 Próximamente |
+| [Parte 3](./part3/README.md) | Programación del servidor con Node.js | ✅ Completada |
 
 ---
 
@@ -28,7 +28,9 @@ fullstackopen/
 │   ├── courseinfo/   → Renderizado de listas, map/reduce
 │   ├── phonebook/    → Formularios, axios, json-server, CRUD
 │   └── countries/    → Fetch a APIs externas, renderizado condicional
-└── part3/            → (próximamente)
+└── part3/
+    ├── phonebook/           → Frontend React (build de producción)
+    └── phonebook-backend/   → Backend Node.js + MongoDB deployado en Render
 ```
 
 ---
@@ -37,8 +39,10 @@ fullstackopen/
 
 - React + Vite
 - JavaScript (ES6+)
+- Node.js + Express
+- MongoDB Atlas + Mongoose
 - Axios
-- JSON Server
 - REST Countries API
 - OpenWeatherMap API
-- HTML / CSS
+- ESLint
+- Render (deploy)
