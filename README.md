@@ -1,4 +1,4 @@
-# Full Stack Open — NuclearGecko74
+# Full Stack Open — SF90STRADEl
 
 Repositorio con los ejercicios del curso [Full Stack Open](https://fullstackopen.com/es/) de la Universidad de Helsinki.
 
